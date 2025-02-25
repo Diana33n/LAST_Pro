@@ -110,7 +110,4 @@ Then verify:
 
 node -v
 
----
 
-### ✅ **Now you can copy everything at once! 🚀**  
-Let me know if you need any modifications! 😊
